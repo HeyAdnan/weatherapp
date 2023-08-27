@@ -93,6 +93,7 @@ const Wapp = () => {
               id="main"
               className="col col-md-6 card-body  d-flex flex-column rounded justify-content-between align-items-center"
               style={{
+                height:"500px",
                 width: "300px",
                 backgroundImage: `url("${backgroundImage}")`,
                 backgroundSize: "cover",
